@@ -1,8 +1,4 @@
 /* HeroesComponent's private CSS styles */
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
-
 .heroes {
   margin: 0 0 2em 0;
   list-style-type: none;
@@ -11,12 +7,11 @@ body {
 }
 
 input {
-  display: inline-block;
+  display: block;
   width: 100%;
   padding: .5rem;
   margin: 1rem 0;
   box-sizing: border-box;
-  margin-right: 10px;
 }
 
 .heroes li {
